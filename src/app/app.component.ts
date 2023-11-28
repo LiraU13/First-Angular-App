@@ -5,10 +5,10 @@ import {Component} from '@angular/core';
   standalone: true,
   imports: [],
   template: `
-    <h1>Default</h1>
+    <h1>Hello world!</h1>
   `,
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'default';
+  title = 'homes';
 }
